@@ -22,6 +22,3 @@ Step 4: Create a Time Series Model with Prophet
 ## Future Work
 
 In this analysis, we compared the stock price data against search trends. Other variables like total sales can also be investigated along side search trends. It would be interesting to add in over variables to see how search trends correlate.
-
-
-
